@@ -1,0 +1,8 @@
+venv
+.env
+logs
+__pycache__
+mlruns
+Artifacts
+final_model
+rough_notes.txt
